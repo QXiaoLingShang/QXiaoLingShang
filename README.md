@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<figure><embed src="https://wakatime.com/share/@4279a907-89ff-442c-aef2-f06f7e316a71/fa62c828-0ceb-4de4-9de4-fed6e635bcf9.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@4279a907-89ff-442c-aef2-f06f7e316a71/fa62c828-0ceb-4de4-9de4-fed6e635bcf9.svg"></embed></figure>
 <!--
 **QXiaoLingShang/QXiaoLingShang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
